@@ -1,0 +1,18 @@
+# IDE
+.idea/
+
+# Database
+*.db
+
+# Build output
+target/
+
+# Music files
+*.mp3
+*.m4a
+*.wav
+
+# Windows files
+
+Thumbs.db
+desktop.ini
